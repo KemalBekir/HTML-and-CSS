@@ -20,7 +20,7 @@ The purpose of the course "HTML & CSS" is to provide basic knowledge of web tech
    <details>
    <summary>Click to expand</summary>
    
-  What is HTML?;
+- What is HTML?;
 - Creating HTML Page;
 - HTML Common Elements;
 - Headings, Paragraphs, Lists, Images, Links;
