@@ -14,4 +14,5 @@ The purpose of the course "HTML & CSS" is to provide basic knowledge of web tech
 - Ability to create static web pages
 
 ### Certificate
-[![Certificate for HTML and CSS from SoftUni]("HTML and CSS certificate")](https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb)
+
+[![Certificate for HTML and CSS from SoftUni](https://user-images.githubusercontent.com/95451696/225366212-30a61cf1-d07d-4261-9bbe-a6635970b4ab.jpg)](https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb)
