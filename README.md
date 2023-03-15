@@ -20,92 +20,86 @@ The purpose of the course "HTML & CSS" is to provide basic knowledge of web tech
    <details>
    <summary>Click to expand</summary>
    
-- What is HTML?;
-- Creating HTML Page;
-- HTML Common Elements;
-- Headings, Paragraphs, Lists, Images, Links;
-- HTML Terminology: Tags and Attributes;
-- What is CSS?;
-- Combining HTML and CSS Files;
-- Inline and Block Elements.
+   - What is HTML?;
+   - Creating HTML Page;
+   - HTML Common Elements;
+   - Headings, Paragraphs, Lists, Images, Links;
+   - HTML Terminology: Tags and Attributes;
+   - What is CSS?;
+   - Combining HTML and CSS Files;
+   - Inline and Block Elements.
    
    </details>
-
 4. HTML Structure
    <details>
    <summary>Click to expand</summary>
    
-- Semantic HTML;
-- HTML Tags;
-- Forms;
-- Tables.
+   - Semantic HTML;
+   - HTML Tags;
+   - Forms;
+   - Tables.
    
    </details>
-
 5. CSS & Typography
    <details>
    <summary>Click to expand</summary>
    
-- Typography;
-- Priciples of Readability;
-- CSS Properties;
-- Font Awesome Icons.
+   - Typography;
+   - Priciples of Readability;
+   - CSS Properties;
+   - Font Awesome Icons.
    
    </details>
-
 6. Exercise: HTML & CSS
 7. CSS Box Model
-<details>
+   <details>
    <summary>Click to expand</summary>
    
-- CSS Box Model;
-- Block and Inline Elements;
-- Width and Height;
-- Padding, Margin and Border;
-- Box Sizing.
+   - CSS Box Model;
+   - Block and Inline Elements;
+   - Width and Height;
+   - Padding, Margin and Border;
+   - Box Sizing.
    
    </details>
-   
 8. Exercise: CSS Box Model
 9. Position & Grid
-<details>
+   <details>
    <summary>Click to expand</summary>
    
-- CSS Grid;
-- Position: static, relative, absolute, fixed and sticky;
-- Positioning Properties;
-- Z-index.
+   - CSS Grid;
+   - Position: static, relative, absolute, fixed and sticky;
+   - Positioning Properties;
+   - Z-index.
    
    </details>
-   
 10. Exercise: Position & Grid
 11. Flexbox
-<details>
+   <details>
    <summary>Click to expand</summary>
    
-- Flexbox;
-- Properties for the Parent;
-- Properties for the Children.
+   - Flexbox;
+   - Properties for the Parent;
+   - Properties for the Children.
    
    </details>
-   
 12. Exercise: Flexbox.
 13. Media Queries
-<details>
+   <details>
    <summary>Click to expand</summary>
    
-- Responsive Web Design;
-- Media Queries;
-- Media Type;
-- Media Feature Rules;
-- Media Queries Conditions.
+   - Responsive Web Design;
+   - Media Queries;
+   - Media Type;
+   - Media Feature Rules;
+   - Media Queries Conditions.
    
    </details>
-   
 14. Exam Preparation.
 15. Design to Code - Demo Project.
 16. Regular Exam.
 17. Retake Exam.
+
 
 ### Certificate
 
