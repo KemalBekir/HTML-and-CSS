@@ -1,0 +1,52 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    margin: 5%;
+
+}
+
+header {
+    font-family: Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+
+header span {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+nav {
+    padding-left: 30px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.navbar {
+    list-style: none;
+    
+}
+
+nav .navbar>li {
+    display: inline-block;
+    padding: 15px;
+}
+
+nav .navbar>li>a {
+    text-decoration: none;
+    color: green;
+}
+
+main h1{
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+main p {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
