@@ -1,0 +1,85 @@
+/* TODO: Add the responsive styles here */
+@media screen  and (max-width: 600px){
+    /* Header */
+    /* .simple-house-header  {
+        display: flex;
+        flex-direction: column;
+        justify-self: center;
+        flex-wrap: wrap;
+    } */
+
+    .tm-header-inner {
+        width: 100%;
+        margin: unset;
+        padding: unset;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .simple-house-header .tm-nav {
+        justify-content: flex-end;
+        padding-bottom: 2rem;
+    }
+
+    .parallax-window {
+        padding-bottom: 0.8rem;
+    }
+
+    /* Main */
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    main .tm-section-title {
+        display: flex;
+        font-weight: bold;
+        text-align: center;
+        margin: 32px auto;
+    }
+
+    /* Gallery */
+    .tm-gallery {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #tm-gallery-page-pizza {
+        margin: unset;
+    }
+
+    .tm-gallery-price {
+        color: #1a6592;
+    }
+
+    .tm-gallery-title {
+        font-weight: bold;
+    }
+
+    .tm-gallery-page {
+        display: flex;
+        width: 100%;
+    }
+
+
+    /*  */
+
+    .tm-cta-section {
+        margin: 0 auto;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: unset;
+    }
+
+
+    .row {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+}
